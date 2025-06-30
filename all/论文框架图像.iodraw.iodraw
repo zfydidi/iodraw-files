@@ -241,6 +241,9 @@
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;面向h&lt;sub&gt;1&lt;/sub&gt;的局部优化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="132.5" width="120" height="33.5" as="geometry" />
         </mxCell>
+        <mxCell id="iXUq4Mr-DjAXZoXTXyIx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iXUq4Mr-DjAXZoXTXyIx-7" target="iXUq4Mr-DjAXZoXTXyIx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;评估&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="188" width="120" height="24" as="geometry" />
         </mxCell>
