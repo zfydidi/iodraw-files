@@ -245,10 +245,10 @@
           <mxGeometry x="100" y="234" width="120" height="24" as="geometry" />
         </mxCell>
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-9" value="共享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="311" width="120" height="24" as="geometry" />
+          <mxGeometry x="100" y="284" width="120" height="24" as="geometry" />
         </mxCell>
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-10" value="冲突检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="360" width="120" height="24" as="geometry" />
+          <mxGeometry x="100" y="359" width="120" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
