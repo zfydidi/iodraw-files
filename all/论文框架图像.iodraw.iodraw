@@ -261,8 +261,8 @@
         </mxCell>
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="127" y="392" as="targetPoint" />
-            <mxPoint x="237" y="493" as="sourcePoint" />
+            <mxPoint x="124" y="385" as="targetPoint" />
+            <mxPoint x="234" y="486" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-10" value="冲突检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
