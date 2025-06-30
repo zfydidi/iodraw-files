@@ -322,8 +322,8 @@
         <mxCell id="TUEkD4YydOVm4BdGINk3-5" value="输出 &lt;font face=&quot;Times New Roman&quot;&gt;fit&lt;sub&gt;i,i&lt;/sub&gt;,fit&lt;sub&gt;i,j&lt;/sub&gt;(&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;fit&lt;/span&gt;&lt;sub style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;1,1&lt;/sub&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;,fit&lt;/span&gt;&lt;sub style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;1,2&lt;/sub&gt;&lt;font face=&quot;Times New Roman&quot;&gt;)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="999" y="844" width="153" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="TUEkD4YydOVm4BdGINk3-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="936" y="845" width="40" height="32" as="geometry" />
+        <mxCell id="TUEkD4YydOVm4BdGINk3-7" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="944" y="845" width="24" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
