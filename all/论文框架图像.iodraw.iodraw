@@ -247,8 +247,14 @@
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;评估&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="188" width="120" height="24" as="geometry" />
         </mxCell>
+        <mxCell id="iXUq4Mr-DjAXZoXTXyIx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iXUq4Mr-DjAXZoXTXyIx-8" target="iXUq4Mr-DjAXZoXTXyIx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-8" value="竞争" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="234" width="120" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="iXUq4Mr-DjAXZoXTXyIx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iXUq4Mr-DjAXZoXTXyIx-9" target="iXUq4Mr-DjAXZoXTXyIx-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-9" value="共享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="284" width="120" height="24" as="geometry" />
