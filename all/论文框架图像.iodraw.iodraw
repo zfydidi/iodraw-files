@@ -299,8 +299,8 @@
         <mxCell id="v1M9Un3b-iIlrku3RD9i-3" value="⑤" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="311" y="812" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v1M9Un3b-iIlrku3RD9i-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="368" y="709" width="40" height="32" as="geometry" />
+        <mxCell id="v1M9Un3b-iIlrku3RD9i-4" value="a=min(i,j),b=max(i,j)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="324" y="709" width="128" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
