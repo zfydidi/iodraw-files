@@ -1101,7 +1101,7 @@
           <mxGeometry x="313" y="705" width="18" height="24" as="geometry" />
         </mxCell>
         <mxCell id="se_DxyCvHddgjwQhvX9I-2" value="&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;x&lt;sub&gt;i,con&lt;/sub&gt;=x&lt;sub&gt;i,best&lt;/sub&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;res&lt;sub&gt;j&lt;/sub&gt; = 0（竞争结果）&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="360" y="705" width="152" height="47" as="geometry" />
+          <mxGeometry x="366" y="705" width="152" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
