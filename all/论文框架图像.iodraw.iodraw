@@ -426,7 +426,7 @@
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-67" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Agent 2&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1005" y="139" width="72" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mW5Jo9tG9lpT9AnXOPM5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;curved=0;" edge="1" parent="1" source="IxyJWuzut5aEEuT6mGFm-1" target="HXXKts0kzXK-YJa1dTXn-1">
+        <mxCell id="mW5Jo9tG9lpT9AnXOPM5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;curved=0;endArrow=none;endFill=0;" edge="1" parent="1" source="IxyJWuzut5aEEuT6mGFm-1" target="HXXKts0kzXK-YJa1dTXn-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IxyJWuzut5aEEuT6mGFm-1" value="&lt;p&gt;&lt;font style=&quot;font-size: 24px;&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
