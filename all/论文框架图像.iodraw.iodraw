@@ -287,8 +287,8 @@
         <mxCell id="yd43N6549NFrrVvW1zRu-8" value="③" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="312" y="704" width="16" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="yd43N6549NFrrVvW1zRu-9" value="让&amp;nbsp;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;x&lt;sub&gt; i,test&lt;/sub&gt; =x&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;vertical-align: sub;&quot;&gt;&lt;font face=&quot;PX-g-cRV_v4ZBpcsR1pk&quot;&gt;i,bes&lt;/font&gt;t&lt;/i&gt;&lt;sub&gt;&amp;nbsp;(&lt;/sub&gt;&lt;font style=&quot;vertical-align: sub;&quot; face=&quot;Times New Roman&quot;&gt;不是共享变量&lt;/font&gt;&lt;sub&gt;) + &lt;/sub&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i style=&quot;&quot;&gt;x&lt;/i&gt;&lt;/font&gt;&amp;nbsp;&lt;sub&gt;1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="362" y="696" width="216" height="40" as="geometry" />
+        <mxCell id="yd43N6549NFrrVvW1zRu-9" value="让&amp;nbsp;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;x&lt;sub&gt; i,test&lt;/sub&gt; =x&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;&quot;&gt;&lt;sub&gt;&lt;font style=&quot;&quot; face=&quot;PX-g-cRV_v4ZBpcsR1pk&quot;&gt;i,bes&lt;/font&gt;t&lt;/sub&gt;&lt;/i&gt;&lt;sub&gt;&amp;nbsp;(&lt;/sub&gt;&lt;font style=&quot;vertical-align: sub;&quot; face=&quot;Times New Roman&quot;&gt;不是共享变量&lt;/font&gt;&lt;sub&gt;) + &lt;/sub&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i style=&quot;&quot;&gt;x&lt;/i&gt;&lt;/font&gt;&amp;nbsp;&lt;sub&gt;1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="366" y="696" width="208" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
