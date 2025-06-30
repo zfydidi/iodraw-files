@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="WkFitRgIGV8zeI21mGGf">
-    <mxGraphModel dx="697" dy="355" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1472" dy="606" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,7 +152,7 @@
         <mxCell id="1dP2eyQyp64WJmUM9A4m-56" value="agent 1和agent 2的共享变量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="823" y="133.8" width="176" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="1dP2eyQyp64WJmUM9A4m-57" value="&lt;i style=&quot;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;line-height: 125%; font-family: &amp;quot;Times New Roman Regular&amp;quot;;&quot;&gt;X=[x&lt;sup&gt;1&lt;/sup&gt;,x&lt;sup&gt;2&lt;/sup&gt;,..,x&lt;sup&gt;D&lt;/sup&gt;]&lt;/span&gt;&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1dP2eyQyp64WJmUM9A4m-57" value="&lt;span lang=&quot;EN-US&quot; style=&quot;line-height: 125%; font-family: &amp;quot;Times New Roman Regular&amp;quot;;&quot;&gt;X=[x&lt;sup style=&quot;&quot;&gt;1&lt;/sup&gt;,x&lt;sup style=&quot;&quot;&gt;2&lt;/sup&gt;,..,x&lt;sup style=&quot;&quot;&gt;D&lt;/sup&gt;]&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="296.5" y="121.69" width="93" height="30.31" as="geometry" />
         </mxCell>
         <mxCell id="1dP2eyQyp64WJmUM9A4m-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.473;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
