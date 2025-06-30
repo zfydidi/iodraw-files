@@ -323,7 +323,7 @@
           <mxGeometry x="668" y="820" width="228" height="96" as="geometry" />
         </mxCell>
         <mxCell id="TUEkD4YydOVm4BdGINk3-5" value="输出 &lt;font face=&quot;Times New Roman&quot;&gt;fit&lt;sub&gt;i,i&lt;/sub&gt;,fit&lt;sub&gt;i,j&lt;/sub&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="998" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="999" y="840" width="337" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
