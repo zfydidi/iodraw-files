@@ -810,7 +810,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KBTkD3Jimfg5ukIi5S6h" name="竞争">
-    <mxGraphModel dx="347" dy="297" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
+    <mxGraphModel dx="157" dy="134" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1129,11 +1129,10 @@
         </mxCell>
         <mxCell id="t-6zpkR90RRsFRu6Tq_y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="t-6zpkR90RRsFRu6Tq_y-1" source="t-6zpkR90RRsFRu6Tq_y-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="147" y="152" as="targetPoint" />
+            <mxPoint x="139" y="160" as="targetPoint" />
             <Array as="points">
               <mxPoint x="295" y="168" />
-              <mxPoint x="187" y="168" />
-              <mxPoint x="187" y="184" />
+              <mxPoint x="147" y="168" />
             </Array>
           </mxGeometry>
         </mxCell>
