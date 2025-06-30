@@ -219,7 +219,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wCsVlScb_dliF4CfL-sQ" name="第 2 页">
-    <mxGraphModel dx="917" dy="845" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
+    <mxGraphModel dx="548" dy="845" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -352,7 +352,7 @@
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-47" value="&lt;font face=&quot;Times New Roman&quot;&gt;更新h&lt;sub&gt;1&lt;/sub&gt;和种群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="864" y="264" width="88" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iXUq4Mr-DjAXZoXTXyIx-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iXUq4Mr-DjAXZoXTXyIx-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="216" y="321" width="640" height="199" as="geometry" />
         </mxCell>
       </root>
