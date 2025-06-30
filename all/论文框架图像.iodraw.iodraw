@@ -307,7 +307,7 @@
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-31" value="冲突检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="727" y="478" width="120" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="iXUq4Mr-DjAXZoXTXyIx-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iXUq4Mr-DjAXZoXTXyIx-32" target="iXUq4Mr-DjAXZoXTXyIx-5">
+        <mxCell id="iXUq4Mr-DjAXZoXTXyIx-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="iXUq4Mr-DjAXZoXTXyIx-32" target="iXUq4Mr-DjAXZoXTXyIx-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-32" value="&lt;font face=&quot;Times New Roman&quot;&gt;达到最大评估？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -315,6 +315,9 @@
         </mxCell>
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-33" value="&lt;font face=&quot;Times New Roman&quot;&gt;达到最大评估？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="935" y="304" width="120" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="iXUq4Mr-DjAXZoXTXyIx-36" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="333" width="40" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
