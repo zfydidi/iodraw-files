@@ -287,8 +287,8 @@
         <mxCell id="yd43N6549NFrrVvW1zRu-8" value="③" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="312" y="704" width="16" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="yd43N6549NFrrVvW1zRu-9" value="让" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="364" y="701" width="32" height="32" as="geometry" />
+        <mxCell id="yd43N6549NFrrVvW1zRu-9" value="让x i,test =x" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="701" width="80" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
