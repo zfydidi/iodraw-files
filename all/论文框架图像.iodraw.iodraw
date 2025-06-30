@@ -259,7 +259,7 @@
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-9" value="共享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="238" y="431" width="120" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="iXUq4Mr-DjAXZoXTXyIx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="iXUq4Mr-DjAXZoXTXyIx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iXUq4Mr-DjAXZoXTXyIx-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="124" y="385" as="targetPoint" />
             <mxPoint x="234" y="486" as="sourcePoint" />
