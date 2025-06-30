@@ -219,7 +219,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wCsVlScb_dliF4CfL-sQ" name="第 2 页">
-    <mxGraphModel dx="298" dy="258" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
+    <mxGraphModel dx="178" dy="154" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -263,11 +263,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="124" y="385" as="targetPoint" />
             <mxPoint x="234" y="486" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="234" y="496" />
-              <mxPoint x="125" y="496" />
-              <mxPoint x="125" y="385" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-10" value="冲突检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
