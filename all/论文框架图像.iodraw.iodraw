@@ -219,7 +219,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wCsVlScb_dliF4CfL-sQ" name="第 2 页">
-    <mxGraphModel dx="285" dy="412" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
+    <mxGraphModel dx="183" dy="264" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -243,9 +243,6 @@
         </mxCell>
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;评估&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="188" width="120" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="iXUq4Mr-DjAXZoXTXyIx-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iXUq4Mr-DjAXZoXTXyIx-8" target="iXUq4Mr-DjAXZoXTXyIx-7">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-8" value="竞争" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="234" width="120" height="24" as="geometry" />
