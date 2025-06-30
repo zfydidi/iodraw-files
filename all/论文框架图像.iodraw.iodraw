@@ -248,7 +248,7 @@
           <mxGeometry x="100" y="188" width="120" height="24" as="geometry" />
         </mxCell>
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-8" value="竞争" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="234" width="120" height="24" as="geometry" />
+          <mxGeometry x="100" y="234" width="120" height="22" as="geometry" />
         </mxCell>
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-9" value="共享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="284" width="120" height="24" as="geometry" />
