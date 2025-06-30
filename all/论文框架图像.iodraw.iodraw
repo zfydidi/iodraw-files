@@ -299,14 +299,13 @@
         <mxCell id="v1M9Un3b-iIlrku3RD9i-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;a=min(&lt;i&gt;i,j&lt;/i&gt;),b=max(&lt;i&gt;i,j&lt;/i&gt;) 这里a=1,b=2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="366" y="688" width="192" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="v1M9Un3b-iIlrku3RD9i-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v1M9Un3b-iIlrku3RD9i-6" target="v1M9Un3b-iIlrku3RD9i-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="v1M9Un3b-iIlrku3RD9i-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v1M9Un3b-iIlrku3RD9i-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="469.75" y="840" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="v1M9Un3b-iIlrku3RD9i-6" value="&lt;font style=&quot;text-wrap-mode: nowrap;&quot; face=&quot;Times New Roman&quot;&gt;初始化&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;fit&lt;/font&gt;&lt;sub style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;0&lt;/sub&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;= f&lt;/font&gt;&lt;sub style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;i&gt;i&lt;/i&gt;&lt;/sub&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(x&lt;/font&gt;&lt;sub style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;i,best&lt;/i&gt;&lt;/font&gt;&lt;/sub&gt;&lt;font face=&quot;Times New Roman&quot;&gt;) ,&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;text-wrap-mode: nowrap;&quot; face=&quot;Times New Roman&quot;&gt;fit&lt;sub&gt;&lt;i&gt;i,i&lt;/i&gt;&lt;/sub&gt;&amp;nbsp;=fit&lt;sub&gt;&lt;i&gt;i,j&lt;/i&gt;&lt;/sub&gt;&amp;nbsp;=0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="372" y="768" width="194" height="29.5" as="geometry" />
-        </mxCell>
-        <mxCell id="v1M9Un3b-iIlrku3RD9i-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="392" y="840" width="155.5" height="56" as="geometry" />
         </mxCell>
         <mxCell id="TUEkD4YydOVm4BdGINk3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TUEkD4YydOVm4BdGINk3-2" target="TUEkD4YydOVm4BdGINk3-5">
           <mxGeometry relative="1" as="geometry">
@@ -318,6 +317,9 @@
         </mxCell>
         <mxCell id="TUEkD4YydOVm4BdGINk3-5" value="输出 &lt;font face=&quot;Times New Roman&quot;&gt;fit&lt;sub&gt;i,i&lt;/sub&gt;,fit&lt;sub&gt;i,j&lt;/sub&gt;(&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;fit&lt;/span&gt;&lt;sub style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;1,1&lt;/sub&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;,fit&lt;/span&gt;&lt;sub style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;1,2&lt;/sub&gt;&lt;font face=&quot;Times New Roman&quot;&gt;)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="999" y="844" width="153" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="TUEkD4YydOVm4BdGINk3-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="765" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
