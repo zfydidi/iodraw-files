@@ -749,9 +749,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yd43N6549NFrrVvW1zRu-2" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="yd43N6549NFrrVvW1zRu-1">
-          <mxGeometry x="-1" relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
