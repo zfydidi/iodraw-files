@@ -244,6 +244,9 @@
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;评估&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="188" width="120" height="24" as="geometry" />
         </mxCell>
+        <mxCell id="iXUq4Mr-DjAXZoXTXyIx-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iXUq4Mr-DjAXZoXTXyIx-8" target="iXUq4Mr-DjAXZoXTXyIx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-8" value="竞争" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="234" width="120" height="24" as="geometry" />
         </mxCell>
