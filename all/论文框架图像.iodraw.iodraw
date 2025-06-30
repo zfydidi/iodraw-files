@@ -244,6 +244,9 @@
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-8" value="竞争" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="264" width="120" height="24" as="geometry" />
         </mxCell>
+        <mxCell id="iXUq4Mr-DjAXZoXTXyIx-9" value="竞争" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="96" y="312" width="120" height="24" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
