@@ -219,7 +219,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wCsVlScb_dliF4CfL-sQ" name="第 2 页">
-    <mxGraphModel dx="375" dy="578" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
+    <mxGraphModel dx="509" dy="784" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -355,8 +355,8 @@
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="228" y="321" width="640" height="199" as="geometry" />
         </mxCell>
-        <mxCell id="iXUq4Mr-DjAXZoXTXyIx-50" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="424" y="525" width="40" height="32" as="geometry" />
+        <mxCell id="iXUq4Mr-DjAXZoXTXyIx-50" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;协商&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="521" width="48" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
