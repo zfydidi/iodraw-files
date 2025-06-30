@@ -740,13 +740,14 @@
           <mxGeometry x="1126" y="514" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yd43N6549NFrrVvW1zRu-1" value="①" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
+          <mxGeometry x="-0.9792" y="-40" relative="1" as="geometry">
             <mxPoint x="368" y="592" as="sourcePoint" />
             <mxPoint x="1088" y="592" as="targetPoint" />
             <Array as="points">
               <mxPoint x="368" y="616" />
               <mxPoint x="1088" y="616" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
