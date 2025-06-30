@@ -301,8 +301,8 @@
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-31" value="冲突检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="727" y="478" width="120" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="iXUq4Mr-DjAXZoXTXyIx-32" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="64" y="288" width="80" height="64" as="geometry" />
+        <mxCell id="iXUq4Mr-DjAXZoXTXyIx-32" value="是否达到最大评估？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="64" y="288" width="112" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
