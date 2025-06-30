@@ -326,7 +326,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-33" value="&lt;font face=&quot;Times New Roman&quot;&gt;达到最大评估？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="931" y="352" width="120" height="72" as="geometry" />
+          <mxGeometry x="872" y="353" width="120" height="72" as="geometry" />
         </mxCell>
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-36" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="129" y="330" width="32" height="32" as="geometry" />
@@ -350,7 +350,7 @@
           <mxGeometry x="1000" y="320" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-47" value="&lt;font face=&quot;Times New Roman&quot;&gt;更新h&lt;sub&gt;1&lt;/sub&gt;和种群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="800" y="322" width="88" height="40" as="geometry" />
+          <mxGeometry x="864" y="264" width="88" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
