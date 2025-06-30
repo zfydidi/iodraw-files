@@ -1097,6 +1097,9 @@
         <mxCell id="ZL6BPtgQYQQS460Qehun-1" value="发送&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;fit&lt;sub&gt;i,i&lt;/sub&gt;,fit&lt;sub&gt;i,j&lt;/sub&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;到邻居agent &lt;i&gt;j&lt;/i&gt; (这里i=1，j=2)&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="615" y="585" width="240" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="se_DxyCvHddgjwQhvX9I-1" value="③" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="800" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
