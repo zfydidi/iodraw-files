@@ -305,7 +305,7 @@
           <mxGeometry x="64" y="312" width="120" height="72" as="geometry" />
         </mxCell>
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-33" value="&lt;font face=&quot;Times New Roman&quot;&gt;达到最大评估？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="944" y="304" width="120" height="72" as="geometry" />
+          <mxGeometry x="935" y="304" width="120" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
