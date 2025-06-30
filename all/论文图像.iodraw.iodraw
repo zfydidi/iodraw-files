@@ -203,7 +203,7 @@
           <mxGeometry x="464" y="211.35" width="32" height="14.65" as="geometry" />
         </mxCell>
         <mxCell id="1dP2eyQyp64WJmUM9A4m-76" value="agent i 的邻居集合定义" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="221" width="144" height="32" as="geometry" />
+          <mxGeometry x="124" y="226" width="144" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
