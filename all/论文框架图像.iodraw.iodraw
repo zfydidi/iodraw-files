@@ -1118,6 +1118,9 @@
         <mxCell id="t-6zpkR90RRsFRu6Tq_y-2" value="&lt;font style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap; vertical-align: sub; font-size: 10px;&quot;&gt;for each&lt;i&gt; d &lt;/i&gt;in&lt;i&gt; L&lt;/i&gt;&lt;/font&gt;&lt;font style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;i style=&quot;vertical-align: sub; font-size: 10px;&quot;&gt;i,j&amp;nbsp;&lt;/i&gt;&lt;sub&gt;(&lt;/sub&gt;&lt;span style=&quot;vertical-align: sub; font-size: 10px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;vertical-align: sub; font-size: 10px;&quot;&gt;&lt;i&gt;L&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;vertical-align: sub; font-size: 10px;&quot;&gt;1,2&lt;/i&gt;&lt;sub&gt;= {3, 5})&lt;/sub&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;container=0;" vertex="1" parent="t-6zpkR90RRsFRu6Tq_y-1">
           <mxGeometry width="216" height="248" as="geometry" />
         </mxCell>
+        <mxCell id="t-6zpkR90RRsFRu6Tq_y-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="t-6zpkR90RRsFRu6Tq_y-1">
+          <mxGeometry x="80" y="32" width="89" height="56" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
