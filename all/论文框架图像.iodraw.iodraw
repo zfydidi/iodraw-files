@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17" pages="3">
   <diagram id="-34b-mqlkfSBvKNJB9CT" name="第 3 页">
-    <mxGraphModel dx="213" dy="196" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
+    <mxGraphModel dx="127" dy="196" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -293,9 +293,6 @@
         <mxCell id="v1M9Un3b-iIlrku3RD9i-1" value="④" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="312" y="736" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v1M9Un3b-iIlrku3RD9i-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;初始化&amp;nbsp;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;fit&lt;sub&gt;0&lt;/sub&gt; = f&lt;sub&gt;i&lt;/sub&gt;(x&lt;sub&gt;i,best&lt;/sub&gt;) ,&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;fit&lt;sub&gt;i,i&lt;/sub&gt; =fit&lt;sub&gt;i,j&lt;/sub&gt; =0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="366" y="768" width="200" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="v1M9Un3b-iIlrku3RD9i-3" value="⑤" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="312" y="775" width="40" height="40" as="geometry" />
         </mxCell>
@@ -306,7 +303,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v1M9Un3b-iIlrku3RD9i-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="391.69" y="716" width="194" height="29.5" as="geometry" />
+          <mxGeometry x="372" y="768" width="194" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="TUEkD4YydOVm4BdGINk3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="v1M9Un3b-iIlrku3RD9i-8" target="TUEkD4YydOVm4BdGINk3-2">
           <mxGeometry relative="1" as="geometry" />
