@@ -293,8 +293,8 @@
         <mxCell id="v1M9Un3b-iIlrku3RD9i-1" value="④" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="312" y="752" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v1M9Un3b-iIlrku3RD9i-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;初始化&amp;nbsp;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;fit&lt;sub&gt;0&lt;/sub&gt; = f&lt;sub&gt;i&lt;/sub&gt;(x&lt;sub&gt;i,best&lt;/sub&gt;)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="368" y="748" width="128" height="40" as="geometry" />
+        <mxCell id="v1M9Un3b-iIlrku3RD9i-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;初始化&amp;nbsp;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;fit&lt;sub&gt;0&lt;/sub&gt; = f&lt;sub&gt;i&lt;/sub&gt;(x&lt;sub&gt;i,best&lt;/sub&gt;) ,&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;fit&lt;sub&gt;i,i&lt;/sub&gt; =fit&lt;sub&gt;i,j&lt;/sub&gt; =0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="332" y="748" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
