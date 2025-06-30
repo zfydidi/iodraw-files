@@ -219,7 +219,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wCsVlScb_dliF4CfL-sQ" name="第 2 页">
-    <mxGraphModel dx="627" dy="542" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
+    <mxGraphModel dx="411" dy="355" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -358,7 +358,7 @@
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-50" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;协商&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="524" y="536" width="48" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iXUq4Mr-DjAXZoXTXyIx-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.781;exitY=0.116;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iXUq4Mr-DjAXZoXTXyIx-49">
+        <mxCell id="iXUq4Mr-DjAXZoXTXyIx-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.781;exitY=0.116;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.194;entryY=0.196;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iXUq4Mr-DjAXZoXTXyIx-49" target="iXUq4Mr-DjAXZoXTXyIx-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="517.6577261613694" y="330" as="sourcePoint" />
             <mxPoint x="392.00063341483406" y="392" as="targetPoint" />
