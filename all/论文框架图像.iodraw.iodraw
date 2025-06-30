@@ -810,7 +810,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KBTkD3Jimfg5ukIi5S6h" name="竞争">
-    <mxGraphModel dx="447" dy="610" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
+    <mxGraphModel dx="713" dy="610" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1104,7 +1104,7 @@
           <mxGeometry x="366" y="705" width="152" height="47" as="geometry" />
         </mxCell>
         <mxCell id="t-6zpkR90RRsFRu6Tq_y-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="566" y="832" width="392" height="416" as="geometry" />
+          <mxGeometry x="544" y="848" width="392" height="416" as="geometry" />
         </mxCell>
         <mxCell id="t-6zpkR90RRsFRu6Tq_y-17" value="" style="group" vertex="1" connectable="0" parent="t-6zpkR90RRsFRu6Tq_y-1">
           <mxGeometry x="11" y="-32" width="392" height="416" as="geometry" />
