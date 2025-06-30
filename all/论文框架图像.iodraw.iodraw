@@ -1100,7 +1100,7 @@
         <mxCell id="se_DxyCvHddgjwQhvX9I-1" value="③" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="313" y="705" width="18" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="se_DxyCvHddgjwQhvX9I-2" value="&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;xi,con=xi,best&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;res&lt;sub&gt;j&lt;/sub&gt; = 0&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="se_DxyCvHddgjwQhvX9I-2" value="&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;xi,con=xi,best&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;res&lt;sub&gt;j&lt;/sub&gt; = 0&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="374" y="705" width="138" height="47" as="geometry" />
         </mxCell>
       </root>
