@@ -358,7 +358,7 @@
         <mxCell id="iXUq4Mr-DjAXZoXTXyIx-50" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;协商&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="524" y="536" width="48" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iXUq4Mr-DjAXZoXTXyIx-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="iXUq4Mr-DjAXZoXTXyIx-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="iXUq4Mr-DjAXZoXTXyIx-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="471.9977261613694" y="458" as="sourcePoint" />
             <mxPoint x="557.23" y="353" as="targetPoint" />
