@@ -1820,7 +1820,7 @@
           <mxGeometry x="152" y="632" width="16" height="24" as="geometry" />
         </mxCell>
         <mxCell id="G4cJBlwPWA6f0xpB6gdT-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="264" y="624" width="469" height="160" as="geometry" />
+          <mxGeometry x="296" y="744" width="469" height="160" as="geometry" />
         </mxCell>
         <mxCell id="G4cJBlwPWA6f0xpB6gdT-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;text-wrap-mode: nowrap; vertical-align: sub; font-size: 14px;&quot;&gt;for each&lt;i style=&quot;&quot;&gt; j&amp;nbsp;&lt;/i&gt;in&lt;i style=&quot;&quot;&gt; N&lt;/i&gt;&lt;/font&gt;&lt;font style=&quot;text-wrap-mode: nowrap; font-size: 14px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;sub&gt;i&lt;/sub&gt;&lt;/i&gt;&lt;i style=&quot;vertical-align: sub;&quot;&gt;&amp;nbsp;&lt;/i&gt;&lt;sub style=&quot;&quot;&gt;(&lt;/sub&gt;&lt;span style=&quot;vertical-align: sub;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;vertical-align: sub; font-size: 14px;&quot;&gt;&lt;i&gt;N&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;&quot;&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/i&gt;&lt;sub style=&quot;&quot;&gt;= {2})&lt;/sub&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;container=0;" vertex="1" parent="G4cJBlwPWA6f0xpB6gdT-1">
           <mxGeometry width="405" height="159.99999999999997" as="geometry" />
