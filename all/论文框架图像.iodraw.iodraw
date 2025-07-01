@@ -1874,7 +1874,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G4cJBlwPWA6f0xpB6gdT-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="695" y="1048" width="305" height="312" as="geometry" />
+          <mxGeometry x="695" y="1048" width="305" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
