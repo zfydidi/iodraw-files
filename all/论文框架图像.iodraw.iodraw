@@ -1555,7 +1555,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0IAkcDOM0kxIxoaibMsQ" name="冲突检测">
-    <mxGraphModel dx="205" dy="174" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
+    <mxGraphModel dx="313" dy="265" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1896,11 +1896,10 @@
             <mxPoint x="651.74" y="150" as="sourcePoint" />
             <mxPoint x="937.99" y="1131.9999999999998" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="651.99" y="142" />
-              <mxPoint x="649.99" y="142" />
-              <mxPoint x="649.99" y="16" />
-              <mxPoint x="1307.99" y="16" />
-              <mxPoint x="1307.99" y="1132" />
+              <mxPoint x="650" y="150" />
+              <mxPoint x="650" y="16" />
+              <mxPoint x="1308" y="16" />
+              <mxPoint x="1308" y="1132" />
             </Array>
           </mxGeometry>
         </mxCell>
