@@ -1168,7 +1168,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_LBnLrJDVS5x__ppvo9g" name="共享">
-    <mxGraphModel dx="605" dy="530" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
+    <mxGraphModel dx="387" dy="530" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1488,7 +1488,7 @@
           <mxGeometry x="20" y="48" width="348" height="328" as="geometry" />
         </mxCell>
         <mxCell id="8jWTnTrX9mSPfConmHma-15" value="②" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="134" y="744" width="18" height="24" as="geometry" />
+          <mxGeometry x="139" y="744" width="18" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
