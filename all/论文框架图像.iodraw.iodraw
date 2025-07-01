@@ -1849,23 +1849,20 @@
         <mxCell id="G4cJBlwPWA6f0xpB6gdT-34" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;计算梯度&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="632" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G4cJBlwPWA6f0xpB6gdT-35" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="191" y="920" width="4038" height="629" as="geometry" />
-        </mxCell>
-        <mxCell id="G4cJBlwPWA6f0xpB6gdT-36" value="" style="group" vertex="1" connectable="0" parent="G4cJBlwPWA6f0xpB6gdT-35">
-          <mxGeometry width="4037.9999999999995" height="629" as="geometry" />
+        <mxCell id="G4cJBlwPWA6f0xpB6gdT-36" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="191" y="920" width="4037.9999999999995" height="629" as="geometry" />
         </mxCell>
         <mxCell id="G4cJBlwPWA6f0xpB6gdT-37" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;text-wrap-mode: nowrap; vertical-align: sub; font-size: 14px;&quot;&gt;for each&lt;i style=&quot;&quot;&gt; j&amp;nbsp;&lt;/i&gt;in&lt;i style=&quot;&quot;&gt; N&lt;/i&gt;&lt;/font&gt;&lt;font style=&quot;text-wrap-mode: nowrap; font-size: 14px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;sub&gt;i&lt;/sub&gt;&lt;/i&gt;&lt;i style=&quot;vertical-align: sub;&quot;&gt;&amp;nbsp;&lt;/i&gt;&lt;sub style=&quot;&quot;&gt;(&lt;/sub&gt;&lt;span style=&quot;vertical-align: sub;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;vertical-align: sub; font-size: 14px;&quot;&gt;&lt;i&gt;N&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;&quot;&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/i&gt;&lt;sub style=&quot;&quot;&gt;= {2})&lt;/sub&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;container=0;" vertex="1" parent="G4cJBlwPWA6f0xpB6gdT-36">
           <mxGeometry width="488" height="232" as="geometry" />
         </mxCell>
         <mxCell id="G4cJBlwPWA6f0xpB6gdT-38" value="" style="group" vertex="1" connectable="0" parent="G4cJBlwPWA6f0xpB6gdT-36">
-          <mxGeometry x="31.523232575568322" y="32.412238325281805" width="4006.4767674244313" height="596.5877616747182" as="geometry" />
+          <mxGeometry x="31.523232575568322" y="272.00223832528184" width="4006.4767674244313" height="596.5877616747182" as="geometry" />
         </mxCell>
         <mxCell id="G4cJBlwPWA6f0xpB6gdT-39" value="&lt;font style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap; font-size: 14px; vertical-align: sub;&quot;&gt;for each&lt;i&gt;&amp;nbsp;d&amp;nbsp;&lt;/i&gt;in&lt;i&gt;&amp;nbsp;L&lt;/i&gt;&lt;/font&gt;&lt;font style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;i style=&quot;font-size: 14px; vertical-align: sub;&quot;&gt;i,j&amp;nbsp;&lt;/i&gt;&lt;sub style=&quot;font-size: 14px;&quot;&gt;(&lt;/sub&gt;&lt;span style=&quot;font-size: 14px; vertical-align: sub;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;font-size: 14px; vertical-align: sub;&quot;&gt;&lt;i&gt;L&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;font-size: 14px; vertical-align: sub;&quot;&gt;1,2&lt;/i&gt;&lt;sub&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;{3, 5})&lt;/font&gt;&lt;/sub&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;container=0;" vertex="1" parent="G4cJBlwPWA6f0xpB6gdT-38">
           <mxGeometry width="424" height="176" as="geometry" />
         </mxCell>
-        <mxCell id="G4cJBlwPWA6f0xpB6gdT-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="G4cJBlwPWA6f0xpB6gdT-38">
-          <mxGeometry x="24.21" y="32.41" width="359.79" height="119.59" as="geometry" />
+        <mxCell id="G4cJBlwPWA6f0xpB6gdT-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="246.73323257556834" y="1224.4122383252818" width="359.79" height="119.59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
