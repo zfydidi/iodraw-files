@@ -1435,7 +1435,7 @@
         <mxCell id="kitPQ3cDRaULpOHNHH5c-2" value="①" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="142" y="616" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="kitPQ3cDRaULpOHNHH5c-3" value="&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;输入：共识解x&lt;sub&gt;i,con&lt;/sub&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;种群P&lt;sub&gt;i&lt;/sub&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;竞争结果res&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="kitPQ3cDRaULpOHNHH5c-3" value="&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;输入：&lt;/span&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;共识解x&lt;/span&gt;&lt;sub style=&quot;background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;i,con&lt;/sub&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;种群P&lt;sub&gt;i&lt;/sub&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;竞争结果res&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="199" y="598" width="289" height="58" as="geometry" />
         </mxCell>
       </root>
