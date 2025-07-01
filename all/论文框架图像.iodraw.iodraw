@@ -1829,7 +1829,7 @@
           <mxGeometry x="176" y="984" width="464" height="400" as="geometry" />
         </mxCell>
         <mxCell id="G4cJBlwPWA6f0xpB6gdT-52" value="从 &lt;font face=&quot;Times New Roman&quot;&gt;agent j 接收p&lt;sub&gt;j,i，&lt;/sub&gt;n&lt;sub&gt;j,i &lt;/sub&gt;(从agent 2接收p&lt;sub&gt;2,1，&lt;/sub&gt;n&lt;sub&gt;2,1&lt;/sub&gt;)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1016" width="274" height="32" as="geometry" />
+          <mxGeometry x="712" y="1064" width="274" height="32" as="geometry" />
         </mxCell>
         <mxCell id="G4cJBlwPWA6f0xpB6gdT-53" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="180.89" y="664" width="488" height="232" as="geometry" />
@@ -1873,8 +1873,8 @@
         <mxCell id="G4cJBlwPWA6f0xpB6gdT-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="G4cJBlwPWA6f0xpB6gdT-50" source="G4cJBlwPWA6f0xpB6gdT-45" target="G4cJBlwPWA6f0xpB6gdT-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G4cJBlwPWA6f0xpB6gdT-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="695" y="1048" width="120" height="60" as="geometry" />
+        <mxCell id="G4cJBlwPWA6f0xpB6gdT-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="695" y="1048" width="297" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
