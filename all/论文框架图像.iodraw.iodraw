@@ -1477,6 +1477,9 @@
         <mxCell id="XCuynNqd0vcGwEnprAVl-4" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;t&lt;sub&gt;j,d&lt;/sub&gt; = 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="664" y="1248" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XCuynNqd0vcGwEnprAVl-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="656" y="1288" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
