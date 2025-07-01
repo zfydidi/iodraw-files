@@ -1876,7 +1876,7 @@
         <mxCell id="G4cJBlwPWA6f0xpB6gdT-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="G4cJBlwPWA6f0xpB6gdT-50" source="G4cJBlwPWA6f0xpB6gdT-45" target="G4cJBlwPWA6f0xpB6gdT-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G4cJBlwPWA6f0xpB6gdT-52" value="从 &lt;font face=&quot;Times New Roman&quot;&gt;agent j 接收p&lt;sub&gt;j,i&lt;/sub&gt;,n&lt;sub&gt;j,i 从agent 2接收p2,1,n2,1&lt;/sub&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G4cJBlwPWA6f0xpB6gdT-38">
+        <mxCell id="G4cJBlwPWA6f0xpB6gdT-52" value="从 &lt;font face=&quot;Times New Roman&quot;&gt;agent j 接收p&lt;sub&gt;j,i&lt;/sub&gt;,n&lt;sub&gt;j,i &lt;/sub&gt;从agent 2接收p2,1,n2,1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G4cJBlwPWA6f0xpB6gdT-38">
           <mxGeometry x="306" y="40" width="282" height="64" as="geometry" />
         </mxCell>
       </root>
