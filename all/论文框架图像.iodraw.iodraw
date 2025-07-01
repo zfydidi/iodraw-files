@@ -1168,7 +1168,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_LBnLrJDVS5x__ppvo9g" name="共享">
-    <mxGraphModel dx="1145" dy="972" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
+    <mxGraphModel dx="491" dy="416" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1434,6 +1434,11 @@
         </mxCell>
         <mxCell id="kitPQ3cDRaULpOHNHH5c-2" value="①" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="142" y="616" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="PtfWU-fF1pFQckXF0A6S-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kitPQ3cDRaULpOHNHH5c-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="920" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kitPQ3cDRaULpOHNHH5c-3" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;line-height: 10%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;输入：&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;font face=&quot;nYx4oj-xhQ_iSDUb5yYM&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;共识解x&lt;/span&gt;&lt;sub style=&quot;background-color: initial;&quot;&gt;i,con&lt;/sub&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font face=&quot;nYx4oj-xhQ_iSDUb5yYM&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;种群P&lt;/span&gt;&lt;sub style=&quot;background-color: initial;&quot;&gt;i&lt;/sub&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;nYx4oj-xhQ_iSDUb5yYM&quot;&gt;竞争结果res&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;align=left;" vertex="1" parent="1">
           <mxGeometry x="183" y="622" width="136" height="88" as="geometry" />
