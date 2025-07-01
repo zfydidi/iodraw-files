@@ -1444,7 +1444,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kitPQ3cDRaULpOHNHH5c-3" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;line-height: 10%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;输入：&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;font face=&quot;nYx4oj-xhQ_iSDUb5yYM&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;共识解x&lt;/span&gt;&lt;sub style=&quot;background-color: initial;&quot;&gt;i,con&lt;/sub&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font face=&quot;nYx4oj-xhQ_iSDUb5yYM&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;种群P&lt;/span&gt;&lt;sub style=&quot;background-color: initial;&quot;&gt;i&lt;/sub&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;nYx4oj-xhQ_iSDUb5yYM&quot;&gt;竞争结果res&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;align=left;" vertex="1" parent="1">
-          <mxGeometry x="183" y="622" width="136" height="88" as="geometry" />
+          <mxGeometry x="183" y="618" width="136" height="88" as="geometry" />
         </mxCell>
         <mxCell id="8jWTnTrX9mSPfConmHma-15" value="②" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="139" y="744" width="18" height="24" as="geometry" />
@@ -1514,7 +1514,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PtfWU-fF1pFQckXF0A6S-6" value="③" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1104" width="40" height="40" as="geometry" />
+          <mxGeometry x="142" y="1144" width="24" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
