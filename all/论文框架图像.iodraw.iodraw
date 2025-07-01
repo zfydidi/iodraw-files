@@ -1481,7 +1481,7 @@
           <mxGeometry x="664" y="1360" width="288" height="136" as="geometry" />
         </mxCell>
         <mxCell id="XCuynNqd0vcGwEnprAVl-19" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;x&lt;sup&gt;d&lt;/sup&gt; = x&lt;sup&gt;d&lt;/sup&gt;&lt;sub&gt;i,con&lt;/sub&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="688" y="1410" width="232" height="62" as="geometry" />
+          <mxGeometry x="688" y="1410" width="104" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
