@@ -1168,7 +1168,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_LBnLrJDVS5x__ppvo9g" name="共享">
-    <mxGraphModel dx="916" dy="777" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
+    <mxGraphModel dx="654" dy="555" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1485,10 +1485,10 @@
           <mxGeometry x="574" y="1224" width="68.22" height="32" as="geometry" />
         </mxCell>
         <mxCell id="XCuynNqd0vcGwEnprAVl-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="542" y="1312" width="144" height="88" as="geometry" />
+          <mxGeometry x="544" y="1296" width="144" height="88" as="geometry" />
         </mxCell>
         <mxCell id="XCuynNqd0vcGwEnprAVl-14" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;for each &lt;i&gt;x&lt;/i&gt; in P&lt;sub&gt;i&lt;/sub&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="XCuynNqd0vcGwEnprAVl-21">
-          <mxGeometry width="144" height="88" as="geometry" />
+          <mxGeometry x="-7.89" width="144" height="88" as="geometry" />
         </mxCell>
         <mxCell id="XCuynNqd0vcGwEnprAVl-19" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;x&lt;sup&gt;d&lt;/sup&gt; = x&lt;sup&gt;d&lt;/sup&gt;&lt;sub&gt;i,con&lt;/sub&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XCuynNqd0vcGwEnprAVl-21">
           <mxGeometry x="21" y="33" width="104" height="38" as="geometry" />
