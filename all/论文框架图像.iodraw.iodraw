@@ -1834,6 +1834,11 @@
         <mxCell id="G4cJBlwPWA6f0xpB6gdT-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="G4cJBlwPWA6f0xpB6gdT-3">
           <mxGeometry x="24" y="32" width="296" height="56" as="geometry" />
         </mxCell>
+        <UserObject label="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;img width=&quot;844&quot; height=&quot;124&quot; src=&quot;file:////Users/zhangyingjie/Library/Containers/com.kingsoft.wpsoffice.mac/Data/tmp/wps-zhangyingjie/ksohtml//wps1.jpg&quot;&gt;&lt;/p&gt;" link="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;img width=&quot;844&quot; height=&quot;124&quot; src=&quot;file:////Users/zhangyingjie/Library/Containers/com.kingsoft.wpsoffice.mac/Data/tmp/wps-zhangyingjie/ksohtml//wps1.jpg&quot;&gt;&lt;/p&gt;" id="G4cJBlwPWA6f0xpB6gdT-24">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="216" y="560" width="552" height="176" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
