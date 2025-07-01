@@ -1555,7 +1555,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0IAkcDOM0kxIxoaibMsQ" name="冲突检测">
-    <mxGraphModel dx="3093" dy="1943" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
+    <mxGraphModel dx="1160" dy="729" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1818,6 +1818,12 @@
         </mxCell>
         <mxCell id="6F-YSYqqXYtStgKgCPXF-2" value="①" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="152" y="632" width="16" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="G4cJBlwPWA6f0xpB6gdT-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="3144" y="1253" width="1102" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="G4cJBlwPWA6f0xpB6gdT-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;text-wrap-mode: nowrap; vertical-align: sub; font-size: 14px;&quot;&gt;for each&lt;i style=&quot;&quot;&gt; j&amp;nbsp;&lt;/i&gt;in&lt;i style=&quot;&quot;&gt; N&lt;/i&gt;&lt;/font&gt;&lt;font style=&quot;text-wrap-mode: nowrap; font-size: 14px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;sub&gt;i&lt;/sub&gt;&lt;/i&gt;&lt;i style=&quot;vertical-align: sub;&quot;&gt;&amp;nbsp;&lt;/i&gt;&lt;sub style=&quot;&quot;&gt;(&lt;/sub&gt;&lt;span style=&quot;vertical-align: sub;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;vertical-align: sub; font-size: 14px;&quot;&gt;&lt;i&gt;N&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;&quot;&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/i&gt;&lt;sub style=&quot;&quot;&gt;= {2})&lt;/sub&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;container=0;" vertex="1" parent="G4cJBlwPWA6f0xpB6gdT-1">
+          <mxGeometry width="111.49387959030727" height="4.895330112721416" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
