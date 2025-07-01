@@ -1455,12 +1455,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XCuynNqd0vcGwEnprAVl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCuynNqd0vcGwEnprAVl-2" target="XCuynNqd0vcGwEnprAVl-4">
+        <mxCell id="XCuynNqd0vcGwEnprAVl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="XCuynNqd0vcGwEnprAVl-4">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="1153" as="sourcePoint" />
+            <mxPoint x="608.1100000000001" y="1217" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="1168" />
-              <mxPoint x="656" y="1168" />
-              <mxPoint x="656" y="1224" />
+              <mxPoint x="520" y="1161" />
+              <mxPoint x="616" y="1161" />
+              <mxPoint x="616" y="1217" />
+              <mxPoint x="608" y="1217" />
             </Array>
           </mxGeometry>
         </mxCell>
