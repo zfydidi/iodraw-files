@@ -1891,7 +1891,7 @@
         <mxCell id="G4cJBlwPWA6f0xpB6gdT-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G4cJBlwPWA6f0xpB6gdT-37" target="G4cJBlwPWA6f0xpB6gdT-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XyTK2yiD_Tzy26NvD4r5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="XyTK2yiD_Tzy26NvD4r5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="640" y="150" width="17.5" height="16" as="geometry" />
         </mxCell>
       </root>
