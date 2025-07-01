@@ -1829,7 +1829,7 @@
           <mxGeometry x="175.99999999999997" y="984" width="488" height="232" as="geometry" />
         </mxCell>
         <mxCell id="G4cJBlwPWA6f0xpB6gdT-52" value="从 &lt;font face=&quot;Times New Roman&quot;&gt;agent j 接收p&lt;sub&gt;j,i，&lt;/sub&gt;n&lt;sub&gt;j,i &lt;/sub&gt;(从agent 2接收p&lt;sub&gt;2,1，&lt;/sub&gt;n&lt;sub&gt;2,1&lt;/sub&gt;)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="336.0032325755683" y="917.0022383252817" width="286" height="40" as="geometry" />
+          <mxGeometry x="270.0032325755683" y="1016.0022383252817" width="286" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G4cJBlwPWA6f0xpB6gdT-39" value="&lt;font style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap; font-size: 14px; vertical-align: sub;&quot;&gt;for each&lt;i&gt;&amp;nbsp;d&amp;nbsp;&lt;/i&gt;in&lt;i&gt;&amp;nbsp;L&lt;/i&gt;&lt;/font&gt;&lt;font style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;i style=&quot;font-size: 14px; vertical-align: sub;&quot;&gt;i,j&amp;nbsp;&lt;/i&gt;&lt;sub style=&quot;font-size: 14px;&quot;&gt;(&lt;/sub&gt;&lt;span style=&quot;font-size: 14px; vertical-align: sub;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;font-size: 14px; vertical-align: sub;&quot;&gt;&lt;i&gt;L&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;font-size: 14px; vertical-align: sub;&quot;&gt;1,2&lt;/i&gt;&lt;sub&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;{3, 5})&lt;/font&gt;&lt;/sub&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;container=0;" vertex="1" parent="1">
           <mxGeometry x="162.00323257556835" y="1168.0022383252817" width="216" height="240.00000000000003" as="geometry" />
@@ -1850,7 +1850,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G4cJBlwPWA6f0xpB6gdT-53" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="184" y="664" width="488" height="232" as="geometry" />
+          <mxGeometry x="180.89" y="664" width="488" height="232" as="geometry" />
         </mxCell>
         <mxCell id="G4cJBlwPWA6f0xpB6gdT-54" value="" style="group" vertex="1" connectable="0" parent="G4cJBlwPWA6f0xpB6gdT-53">
           <mxGeometry width="488" height="232" as="geometry" />
