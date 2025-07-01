@@ -1864,6 +1864,9 @@
         <mxCell id="G4cJBlwPWA6f0xpB6gdT-45" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;p&lt;sup&gt;d&lt;/sup&gt;&lt;sub&gt;j,i&lt;/sub&gt; *p&lt;sup&gt;d&lt;/sup&gt;&lt;sub&gt;i,j&lt;/sub&gt; &amp;gt;0&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;∧&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&amp;nbsp;n&lt;sup&gt;d&lt;/sup&gt;&lt;sub&gt;j,i&lt;/sub&gt; * n&lt;sup&gt;d&lt;/sup&gt;&lt;sub&gt;i,j&lt;/sub&gt; &amp;gt;0 ?&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="G4cJBlwPWA6f0xpB6gdT-38">
           <mxGeometry x="457.48" y="16" width="214.52" height="112" as="geometry" />
         </mxCell>
+        <mxCell id="G4cJBlwPWA6f0xpB6gdT-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="656" y="1256" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
