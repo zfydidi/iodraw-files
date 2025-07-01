@@ -1442,10 +1442,10 @@
           <mxGeometry x="139" y="744" width="18" height="24" as="geometry" />
         </mxCell>
         <mxCell id="8jWTnTrX9mSPfConmHma-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1064" y="784" width="348" height="336" as="geometry" />
+          <mxGeometry x="612.69" y="824" width="348" height="344" as="geometry" />
         </mxCell>
         <mxCell id="8jWTnTrX9mSPfConmHma-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;text-wrap-mode: nowrap; vertical-align: sub; font-size: 14px;&quot;&gt;for each&lt;i style=&quot;&quot;&gt; j&amp;nbsp;&lt;/i&gt;in&lt;i style=&quot;&quot;&gt; N&lt;/i&gt;&lt;/font&gt;&lt;font style=&quot;text-wrap-mode: nowrap; font-size: 14px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;sub&gt;i&lt;/sub&gt;&lt;/i&gt;&lt;i style=&quot;vertical-align: sub;&quot;&gt;&amp;nbsp;&lt;/i&gt;&lt;sub style=&quot;&quot;&gt;(&lt;/sub&gt;&lt;span style=&quot;vertical-align: sub;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;vertical-align: sub; font-size: 14px;&quot;&gt;&lt;i&gt;N&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;&quot;&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/i&gt;&lt;sub style=&quot;&quot;&gt;= {2})&lt;/sub&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;container=0;" vertex="1" parent="1">
-          <mxGeometry x="586" y="784" width="392" height="416" as="geometry" />
+          <mxGeometry x="436" y="1080" width="392" height="416" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
