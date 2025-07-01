@@ -1447,7 +1447,10 @@
         <mxCell id="XCuynNqd0vcGwEnprAVl-1" value="&lt;font style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap; font-size: 14px; vertical-align: sub;&quot;&gt;for each&lt;i&gt;&amp;nbsp;d&amp;nbsp;&lt;/i&gt;in&lt;i&gt;&amp;nbsp;L&lt;/i&gt;&lt;/font&gt;&lt;font style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;i style=&quot;font-size: 14px; vertical-align: sub;&quot;&gt;i,j&amp;nbsp;&lt;/i&gt;&lt;sub style=&quot;font-size: 14px;&quot;&gt;(&lt;/sub&gt;&lt;span style=&quot;font-size: 14px; vertical-align: sub;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;font-size: 14px; vertical-align: sub;&quot;&gt;&lt;i&gt;L&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;font-size: 14px; vertical-align: sub;&quot;&gt;1,2&lt;/i&gt;&lt;sub&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;=&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;{3, 5})&lt;/font&gt;&lt;/sub&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;container=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="688" width="328" height="368" as="geometry" />
         </mxCell>
-        <mxCell id="XCuynNqd0vcGwEnprAVl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCuynNqd0vcGwEnprAVl-2" target="XCuynNqd0vcGwEnprAVl-3">
+        <mxCell id="XCuynNqd0vcGwEnprAVl-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="456" y="1104" width="344" height="344" as="geometry" />
+        </mxCell>
+        <mxCell id="XCuynNqd0vcGwEnprAVl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XCuynNqd0vcGwEnprAVl-23" source="XCuynNqd0vcGwEnprAVl-2" target="XCuynNqd0vcGwEnprAVl-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XCuynNqd0vcGwEnprAVl-6" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;T&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XCuynNqd0vcGwEnprAVl-5">
@@ -1455,11 +1458,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XCuynNqd0vcGwEnprAVl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCuynNqd0vcGwEnprAVl-2" target="XCuynNqd0vcGwEnprAVl-4">
+        <mxCell id="XCuynNqd0vcGwEnprAVl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XCuynNqd0vcGwEnprAVl-23" source="XCuynNqd0vcGwEnprAVl-2" target="XCuynNqd0vcGwEnprAVl-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="540" y="1208" />
-              <mxPoint x="724" y="1208" />
+              <mxPoint x="84" y="104" />
+              <mxPoint x="268" y="104" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1468,17 +1471,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XCuynNqd0vcGwEnprAVl-2" value="&lt;span style=&quot;color: rgb(40, 37, 61); font-size: 14px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;res&lt;sup&gt;d&lt;/sup&gt;&lt;sub&gt;j&lt;/sub&gt; == 1?&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="456" y="1104" width="168" height="80" as="geometry" />
+        <mxCell id="XCuynNqd0vcGwEnprAVl-2" value="&lt;span style=&quot;color: rgb(40, 37, 61); font-size: 14px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;res&lt;sup&gt;d&lt;/sup&gt;&lt;sub&gt;j&lt;/sub&gt; == 1?&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="XCuynNqd0vcGwEnprAVl-23">
+          <mxGeometry width="168" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XCuynNqd0vcGwEnprAVl-3" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;t&lt;sub&gt;j,d&lt;/sub&gt; = 0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1248" width="120" height="60" as="geometry" />
+        <mxCell id="XCuynNqd0vcGwEnprAVl-3" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;t&lt;sub&gt;j,d&lt;/sub&gt; = 0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XCuynNqd0vcGwEnprAVl-23">
+          <mxGeometry x="24" y="144" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XCuynNqd0vcGwEnprAVl-4" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;t&lt;sub&gt;j,d&lt;/sub&gt; = 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="664" y="1248" width="120" height="60" as="geometry" />
+        <mxCell id="XCuynNqd0vcGwEnprAVl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="XCuynNqd0vcGwEnprAVl-23" source="XCuynNqd0vcGwEnprAVl-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="268.3684210526317" y="256" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="XCuynNqd0vcGwEnprAVl-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="656" y="1360" width="144" height="88" as="geometry" />
+        <mxCell id="XCuynNqd0vcGwEnprAVl-4" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;t&lt;sub&gt;j,d&lt;/sub&gt; = 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XCuynNqd0vcGwEnprAVl-23">
+          <mxGeometry x="208" y="144" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XCuynNqd0vcGwEnprAVl-21" value="" style="group" vertex="1" connectable="0" parent="XCuynNqd0vcGwEnprAVl-23">
+          <mxGeometry x="200" y="256" width="144" height="88" as="geometry" />
         </mxCell>
         <mxCell id="XCuynNqd0vcGwEnprAVl-14" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;for each &lt;i&gt;x&lt;/i&gt; in P&lt;sub&gt;i&lt;/sub&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="XCuynNqd0vcGwEnprAVl-21">
           <mxGeometry width="144" height="88" as="geometry" />
